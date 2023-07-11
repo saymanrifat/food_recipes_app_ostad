@@ -2,7 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## ScreenShot
+
+<img src="https://raw.githubusercontent.com/saymanrifat/food_recipes_app_ostad/main/Screenshot_1689070898.png" width="200" height="400" />
+
 
 This project is a starting point for a Flutter application.
 
